@@ -1,0 +1,14 @@
+{
+    "lsPlayerMessage": [
+        {
+            "PlayerId": 1,
+            "PlayerName": "Json",
+            "PlayerEquip": [
+                {
+                    "EquipId": 101,
+                    "EquipName": "Gun"
+                }
+            ]
+        }
+    ]
+}
